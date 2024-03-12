@@ -1,0 +1,115 @@
+.urlLogin{
+    text-align: center;
+}
+
+.urlCadastro{
+    text-align: center;
+}
+
+.header1{
+    text-align: center;
+}
+
+.div1{
+    margin-left: 100px;
+    margin-right: 1755px;
+    font-family: 'Courier New';
+    background-color: blueviolet;
+}
+.div2{
+    margin-left: 200px;
+    margin-right: 1637px;
+    font-family: 'Franklin Gothic Medium';
+    background-color: aquamarine;
+}
+.div3{
+    margin-left: 300px;
+    margin-right: 1505px;
+    font-family: 'Lucida Sans';
+    background-color: black;
+    color: white;
+}
+.div4{
+    margin-left: 400px;
+    margin-right: 1368px;
+    font-family: Georgia;
+    background-color: chartreuse;
+}
+.div5{
+    margin-left: 500px;
+    margin-right: 1300px;
+    font-family: Impact;
+    background-color: chocolate;
+}
+.div6{
+    margin-left: 600px;
+    margin-right: 1205px;
+    font-family: 'Times New Roman';
+    background-color: firebrick;
+}
+.div7{
+    margin-left: 700px;
+    margin-right: 1065px;
+    font-family: system-ui;
+    background-color: bisque;
+}
+
+.botao1{
+    text-align: center;
+}
+
+.section1{
+    display: flex;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.rato1{
+    height: 300px;
+    width: auto;
+    margin-right: 10px;
+}
+.img1{
+    height: 293px;
+    width: auto;
+}
+
+.rato2{
+    height: 300px;
+    width: auto;
+    margin-right: 10px;
+}
+.img2{
+    height: 293px;
+    width: auto;
+}
+
+.rato3{
+    height: 300px;
+    width: auto;
+    margin-right: 10px;
+}
+.img3{
+    height: 293px;
+    width: auto;
+}
+
+.rato4{
+    height: 300px;
+    width: auto;
+    margin-right: 10px;
+}
+.img4{
+    height: 293px;
+    width: auto;
+}
+
+.section2{
+    background-color: black;
+    height: 400px;
+}
+
+.imagensrato{
+    display: flex;
+    height: 297px;
+    width: auto;
+}
